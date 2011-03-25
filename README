@@ -1,4 +1,6 @@
 DirectFB README
+//ec: DirectFB-1.4.9.tar.gz
+//ec: I want to read the code and add some comments
 ---------------
 
    DirectFB is a graphics library which was designed with embedded
